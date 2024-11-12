@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 print("hello ......")
+=======
+print("-------------------------------------")
+>>>>>>> b1
 print("modified")
 print("Modified again")
 
